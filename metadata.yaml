@@ -1,0 +1,42 @@
+_repo: General-Washington-s-spies-on-Long-Island-and-in-New-York_70129
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pennypacker, Morton
+    alias: Pennypacker, Frank Knox Morton
+    birthdate: 1872
+    deathdate: 1956
+    gutenberg_agent_id: '55614'
+    url: http://www.gutenberg.org/2009/agents/55614
+    wikipedia: https://en.wikipedia.org/wiki/Morton_Pennypacker
+description: '"In this volume are now collected a majority of the letters still in
+  existence from spies in the American service during the Revolutionary War."--Foreword,
+  p. 17.'
+gutenberg_issued: '2023-02-24'
+identifiers:
+  gutenberg: '70129'
+  lccn: '39015703'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/mdp.39015002209891
+pgterms:marc905: 20201124061249pennypacke
+pgterms:marc906: '1939'
+pgterms:marc907: US
+production_note: Tim Lindell, Charlie Howard, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bLong Island Historical Society, $c1939.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- History -- Revolution, 1775-1783'
+- !lcsh 'Washington, George, 1732-1799 -- Career in espionage'
+- !lcsh 'Spies -- New York (State) -- History -- 18th century'
+- !lcsh 'Espionage -- New York (State) -- History -- 18th century'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Secret service'
+- !lcsh 'New York (State) -- History -- Revolution, 1775-1783 -- Secret service'
+- !lcsh 'Long Island (N.Y.) -- History -- Revolution, 1775-1783'
+- !lcc 'E201'
+- GITenberg
+title: General Washington's spies on Long Island and in New York
+url: http://www.gutenberg.org/ebooks/70129
